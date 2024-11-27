@@ -2,7 +2,7 @@
 
 Author(s): - Jacobo Gudiño
 
-[GitHub](https://github.com/TheRocketCodeMX/unagraBack)
+[GitHub](https://github.com/JacoboGudinoGonzalez/banregio.git)
 
 Last updated: 2024-11-26
 
